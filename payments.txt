@@ -1,0 +1,4 @@
+Email: satyam@gmail.com | Amount: 10 | Date: 2025-08-05
+satyam@gmail.com|10|2025-08-05
+sourabh@gmail.com|100|2025-08-05
+varad@gmail.com|400|2025-08-05
